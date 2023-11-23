@@ -16,8 +16,7 @@ todo:
 [+] generate new pair of blocks once all 100 are at x 5000
 [+] make the speed slower or rework the paddle&ball speed increment speed entirely
 [+] add original sound effects
-
-
+[+] fix the movement as it can be bugged at times (hint: just refresh it more often)
 
 
 
